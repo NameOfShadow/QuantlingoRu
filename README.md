@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
-  <img src="https://img.shields.io/badge/License-Apache2-green" alt="License">
+  <img src="https://img.shields.io/badge/License-Apache2.0-yellow" alt="License">
   <img src="https://img.shields.io/badge/ONNX-1.12.0-orange" alt="ONNX">
 </p>
 
